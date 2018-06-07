@@ -22,7 +22,6 @@ C:\mvc\JenkinsTest2\JenkinsTest2\JenkinsTest2\bin\zh-Hant\System.Web.Webpages.De
 C:\mvc\JenkinsTest2\JenkinsTest2\JenkinsTest2\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
 C:\mvc\JenkinsTest2\JenkinsTest2\JenkinsTest2\bin\zh-Hant\System.Web.Helpers.resources.dll
 C:\mvc\JenkinsTest2\JenkinsTest2\JenkinsTest2\bin\zh-Hant\System.Web.Mvc.resources.dll
-C:\mvc\JenkinsTest2\JenkinsTest2\JenkinsTest2\obj\Debug\JenkinsTest2.csprojResolveAssemblyReference.cache
 C:\mvc\JenkinsTest2\JenkinsTest2\JenkinsTest2\obj\Debug\JenkinsTest2.csproj.CoreCompileInputs.cache
 C:\mvc\JenkinsTest2\JenkinsTest2\JenkinsTest2\obj\Debug\JenkinsTest2.dll
 C:\mvc\JenkinsTest2\JenkinsTest2\JenkinsTest2\obj\Debug\JenkinsTest2.pdb
